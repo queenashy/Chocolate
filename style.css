@@ -2,5 +2,14 @@ body{
   background-color:#F0FFFF
 }
 p {
-  font-size:25px
+  font-size:20px
+}
+h2{
+  font-size:35px
+}
+h1{
+  font-size:40px
+}
+table{
+  border:2px #CCCCFF
 }
