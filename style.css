@@ -2,7 +2,7 @@ body{
   background-color:#F0FFFF
 }
 p {
-  font-size:20px
+  font-size:15px
 }
 h2{
   font-size:35px
@@ -12,4 +12,5 @@ h1{
 }
 table{
   border:2px #CCCCFF
+    font-size:15px
 }
